@@ -1,6 +1,5 @@
-## Hey, I'm Shree👋
 
-# 💫 About Me:
+#  Hey, I'm Shree👋:
 <br><br>👨‍💻 Business Analyst (7+ yrs) specializing in Power BI, SQL, Python & automation<br><br>🚀 I simplify work for teams by building dashboards, workflows & automated reporting systems<br><br>🌍 Preparing for Data/BI roles in Europe (NL • UK • DE • BE • LU)<br><br>🧠 Obsessed with turning raw data into clarity, decisions, and impact<br><br>📚 Always learning Cloud, DAX, and scalable data engineering
 
 
